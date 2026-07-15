@@ -3,7 +3,7 @@
 student = {
     "name": "Kourosh Khaleghi",
     "age": 22,
-    "student_id": "9823105",
+    "student_id": "04823",
     "courses": ["Python", "Data Structures"]
 }
 
