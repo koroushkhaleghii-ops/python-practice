@@ -1,4 +1,4 @@
-# Exercise 19: Remove extra spaces (leading, trailing, multiple)
+# Exercise 12: Remove extra spaces (leading, trailing, multiple)
 
 
 def clean_spaces(text):

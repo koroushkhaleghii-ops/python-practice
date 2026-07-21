@@ -1,4 +1,4 @@
-# Exercise 18: Count lowercase letters in a string
+# Exercise 11: Count lowercase letters in a string
 def count_lower(text):
     count = 0
     for ch in text:

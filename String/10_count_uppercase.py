@@ -1,4 +1,4 @@
-# Exercise 17: Count uppercase letters in a string
+# Exercise 10: Count uppercase letters in a string
 
 def count_upper(text):
     count = 0

@@ -1,7 +1,6 @@
 # Exercise 4: Remove extra spaces from a string
 
-def clean_spaces_manual(text):
-    """روش دستی با حلقه (آموزشی)"""
+def clean_spaces(text):
     result = ""
     in_space = False
     for ch in text:
@@ -17,4 +16,4 @@ def clean_spaces_manual(text):
 
 text = "  hello  kourosh  how   are   you?  "
 print(f"Original: '{text}'")
-print("Using manual loop:", clean_spaces_manual(text))
+print("result:", clean_spaces(text))
