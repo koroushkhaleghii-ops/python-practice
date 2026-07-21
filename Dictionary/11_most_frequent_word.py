@@ -1,4 +1,4 @@
-# Exercise 2: Find the most frequent word in a text
+# Exercise 11: Find the most frequent word in a text
 
 def most_frequent_manual(text):
     words = text.lower().split()

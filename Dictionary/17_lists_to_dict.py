@@ -1,4 +1,4 @@
-# Exercise 9: Create a dictionary from two lists (keys and values)
+# Exercise 17: Create a dictionary from two lists (keys and values)
 
 def create_dict(keys, values):
     if len(keys) != len(values):

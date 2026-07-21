@@ -1,4 +1,4 @@
-# Exercise 5: Delete a contact from phonebook
+# Exercise 14: Delete a contact from phonebook
 #way1:
 def delete_contact_pop(phonebook, name):
     removed = phonebook.pop(name, None)

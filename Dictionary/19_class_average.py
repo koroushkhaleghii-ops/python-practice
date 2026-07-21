@@ -1,4 +1,4 @@
-# Exercise 3: Calculate the class average from a dictionary of student grades
+# Exercise 19: Calculate the class average from a dictionary of student grades
 
 def average_grades_builtin(grades_dict):
     if not grades_dict:

@@ -1,4 +1,4 @@
-# Exercise 6: Edit a contact (change phone number)
+# Exercise 15: Edit a contact (change phone number)
 
 def edit_contact(phonebook, name, new_number):
     if name in phonebook:
