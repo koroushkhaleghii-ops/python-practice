@@ -1,4 +1,4 @@
-# Exercise 22: Create a dictionary from two lists (keys and values)
+# Exercise 19: Create a dictionary from two lists (keys and values)
 
 def dict_from_zip(keys, values):
     if len(keys) != len(values):

@@ -1,4 +1,4 @@
-# Exercise 8: Count frequency of words in a sentence
+# Exercise 16: Count frequency of words in a sentence
 
 sentence = "Python is great and Python is fun"
 

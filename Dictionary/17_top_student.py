@@ -1,4 +1,4 @@
-# Exercise 20: Find the student with the highest grade
+# Exercise 17: Find the student with the highest grade
 
 def top_student(grades):
     if not grades:

@@ -1,4 +1,4 @@
-# Exercise 24: Find the key with the maximum value
+# Exercise 21: Find the key with the maximum value
 
 def max_key(d):
     if not d:

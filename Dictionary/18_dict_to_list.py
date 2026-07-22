@@ -1,4 +1,4 @@
-# Exercise 21: Convert dictionary to list of (key, value) tuples
+# Exercise 18: Convert dictionary to list of (key, value) tuples
 
 def dict_to_list_builtin(d):
     return list(d.items())

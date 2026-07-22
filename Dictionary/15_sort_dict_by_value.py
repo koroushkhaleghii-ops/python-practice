@@ -1,4 +1,4 @@
-# Exercise 18: Sort a dictionary by its values (concept)
+# Exercise 15: Sort a dictionary by its values (concept)
 
 
 def sort_by_value_manual(d):

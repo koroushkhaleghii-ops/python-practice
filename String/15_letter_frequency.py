@@ -1,4 +1,4 @@
-# Exercise 7: Count frequency of letters in a word
+# Exercise 15: Count frequency of letters in a word
 
 word = "python programming"
 

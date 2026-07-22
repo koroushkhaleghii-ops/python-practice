@@ -1,4 +1,4 @@
-# Exercise 16: Invert key-value pairs (if values are unique)
+# Exercise 13: Invert key-value pairs (if values are unique)
 
 def invert(original):
     values = list(original.values())

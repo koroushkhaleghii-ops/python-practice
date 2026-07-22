@@ -1,4 +1,4 @@
-# Exercise 9: Find the maximum value in a dictionary
+# Exercise 7: Find the maximum value in a dictionary
 
 scores = {
     "kourosh": 18,

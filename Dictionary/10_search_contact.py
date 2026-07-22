@@ -1,4 +1,4 @@
-# Exercise 13: Search for a contact in phonebook
+# Exercise 10: Search for a contact in phonebook
 # way1:
 def search_contact(phonebook, name):
     return phonebook.get(name, "Contact not found")

@@ -1,4 +1,4 @@
-# Exercise 23: Find the average of all values in a dictionary
+# Exercise 20: Find the average of all values in a dictionary
 
 def avg_values_builtin(d):
     if not d:

@@ -1,4 +1,4 @@
-# Exercise 12: Create a phonebook dictionary
+# Exercise 9: Create a phonebook dictionary
 
 def create_phonebook():
     phonebook = {}
