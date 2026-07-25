@@ -1,4 +1,4 @@
-# Exercise 9: Find missing number in a consecutive sequence
+# Exercise 27: Find missing number in a consecutive sequence
 
 def find_missing_loop(numbers):
     for i in range(len(numbers) - 1):
